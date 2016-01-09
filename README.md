@@ -1,5 +1,5 @@
 # Honeycomb Word Search
-Search for words in a honeycomb structure
+Searches for words in a honeycomb structure. Program written for coding challenge. The `example_hexagon.PNG` image contains the example 61-hexagon image corresponding to the `honeycomb.txt` and `dictionary.txt` files in this repo.
 
 ##Overview
 ####Input:
