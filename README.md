@@ -32,8 +32,6 @@ Alphabetically sorted list of valid strings found in honeycomb (printed to stdou
         2. Get hashed list of nodes for each given first-letter key
         3. Perform BFS for each word in i) from each node in ii)
 
-\* Boundaries of triangle 0: center node A extending up to L, A extending northeast to G
-
-Boundaries of triangle 1: A extending northeast to G, A extending southeast to X, etc.
+\* Boundaries of triangle 0: center node A extending up to L, A extending northeast to G. Boundaries of triangle 1: A extending northeast to G, A extending southeast to X, etc.
 
 \*\* In triangle 1: first grouping is B,C,A (A is innermost node); in next layer of triangle 1: U,A,B and A,N,C, etc.
